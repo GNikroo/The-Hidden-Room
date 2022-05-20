@@ -1,0 +1,49 @@
+One dark and stormy night, the rumbling sound of thunder wakes you from your sleep. You leave your room to find that beyond your door is a dark stairwell that doesn't belong. Feeling the rush of adventure, you slowly climb the stairs... 
+At the top, you find yourself in a small room, the floor and walls made of ancient stone bricks. To your left is an arched doorway leading to a corridor and in the far corner, you make out a shadowy lump.  
+Do you investigate the corner or take to the corridor? 
+CORRIDOR 
+You slide your feet carefully across the ancient stone floor, careful not to trip as you walk down the increasingly darkening hallway. Without warning, your foot slips and you find yourself falling endlessly into a dark pit... 
+The rumbling sound of thunder wakes you from your sleep. You leave your room to find that beyond your door is a dark stairwell that doesn't belong. Ignoring the creeping feeling of familiarity, you slowly climb the stairs... 
+At the top, you find yourself in a small room. To your left is a dark doorway leading to a corridor and in the far corner, you make out a shadowy lump.  
+Do you investigate the corner or take to the corridor? 
+CORNER 
+You crouch down in front of the shadowy lump, your senses on high alert. Slowly, you pull back what feels like tattered clothing to find a stick and a dusty box of matches. You wrap the cloth around the end of the stick and light your torch before taking to the hallway. 
+As you walk the corridor, you carefully skirt the edge of a drafty hole in the stone floor before the hallway suddenly opens up into a grand room. The light of your torch can't reach the other side, the outline of something immense just beyond your vision.  
+Do you walk towards the other side of the room or keep to the walls? 
+WALLS 
+Hugging the walls, you keep an eye on the large object just out of sight. Your free hand slides across the damp, moss covered stones. Your attention diverted as the shadowy object begins to come into view, you almost miss the sudden warmth below your fingertips. Just below ahead of you, a large column had fallen from its pedestal and crashed through the stone wall. The light from your torch reflects on something beyond. 
+Do you investigate the opening or continue along the perimeter? 
+INVESTIGATE 
+You crouch down low and crawl through the thick stone. On the other side is another small room. You gasp as your eyes adjust to the bright light inside – a fire is lit in the hearth at the center of the room and a cloaked figure stands before it. 
+Do you approach the figure or leave? 
+APPROACH 
+Before you take more than a few steps, the figure holds out an object in their skeletal hand. You slowly reach out and take what turns out to be a compass – the needle spinning wildly inside the dirty glass. When you look up to thank the figure, you see only a wisp of smoke in the air. You are overwhelmed by the need to leave the room so you crawl through the opening. When you look back, the fire has gone out and the room is cloaked in darkness. 
+There is a scratching sound all around and you hope there are rats in the walls as you carefully step over the fallen column. You find yourself standing before the suddenly illuminated object you first saw upon entering the room – a large sarcophagus.  
+LEAVE  
+You crawl through the opening and when you look back, the fire has gone out and the room is cloaked in darkness. There is a scratching sound all around and you hope there are rats in the walls as you carefully step over the fallen column. You find yourself standing before the suddenly illuminated object you first saw upon entering the room – a large sarcophagus.  
+CONTINUE 
+There is a scratching sound all around and you hope there are rats in the walls as you carefully step over the fallen column. You find yourself standing before the suddenly illuminated object you first saw upon entering the room – a large sarcophagus.  
+OTHER SIDE 
+The room echoes with your shuffling feet as you cautiously step across the worn stones. There is a scratching sound all around and you hope there are rats in the walls when you find yourself standing before the suddenly illuminated object at the other side of the room – a large sarcophagus.  
+SARCOPHAGUS 
+A cold wind blows passed you and a chill climbs up your spine – you're certain there are no windows up here. Suddenly, the thick lid of the tomb seems to move. 
+SARCOPHAGUS – no compass 
+You scramble towards the way you came and trip over pieces of the fallen column. Pain shoots up from your ankle and you struggle to stand just as the loud thud of the sarcophagus' top shakes the ground. You look over your shoulder and see movement. The light of your torch is too dim. You somehow find your footing but you've hurt your ankle and can only limp. Just as you reach the dark corridor, something grips your arm... 
+Game over … try again? 
+COMPASS 
+The compass grows warm in your hand and you look down to see that the needle has stopped spinning. Your eyes follow the point of the arrow to a wooden door. The lid to the sarcophagus continues to move as you follow the compass. The door is heavy but you are able to pull it open just as the loud thud of the lid shakes the ground.  
+Do you give in to temptation and look at what has emerged from the sarcophagus or do you move on? 
+LOOK 
+You look over your shoulder just as a thin arm is thrown over the edge of the tomb. The flesh is mottled and greyish and something drips down towards the long fingers that grip at something shiny – a dagger. The light of your torch goes out in a sudden draft and you're draped in darkness. You make a run for it, hoping you're heading in the right direction. The door is heavy, but you sigh with relief when it opens. You swear you feel the grip of whatever had emerged from its tomb on your arm as you pull the door shut, scrambling to turn the ancient lock. 
+With shaky hands, you light your torch with another match only to find bloody gashes across your forearm and the compass gone. You turn around and see a foreboding staircase which leads to another shut door. You begin to tremble as you consider what lays beyond as you take the first step... then the next.  
+At the top of the stairs, adrenaline pulsing through your limbs, you open the heavy door. The room is empty and there are no other doors. You step inside, shining your torchlight into every corner and crevasse. Something glitters at the far end of the room.  
+Just as you reach for it, you wake up in your bedroom, the sunlight filtering in through the curtains. You sit up with a gasp – clutched in your hand is a single a dirty box of matches.  
+It couldn't have been a dream... could it? 
+Game over … try again? 
+MOVE ON – with compass 
+You pull the door shut, locking the door before looking back at your compass. The arrow points directly behind you and when you turn around a brightly lit staircase leads to another shut door. Steeling yourself for whatever lays beyond, you take the first step... then the next.  
+At the top of the stairs, adrenaline pulsing through your limbs, you open the heavy door. 
+The room is filled with treasure. Gems of every color, glittering precious jewels, coins of countless denominations in countless currencies... 
+You wake up in your bedroom, the sunlight filtering in through the curtains. Was it just a dream? You sit up with a gasp. Clutched in your hand is the dirty compass, the glass smudge with years of grime. The treasure... 
+You run to your bedroom door and throw it open. The stairwell is gone. Closing the door with a huff of disappointment, you turn back towards your bed. A lump under the bed covers draws your attention and when you lift the cover you find a small pile of treasure, glittering with possibilities. 
+You won! 
