@@ -8,25 +8,11 @@ At the top, you find yourself in a small room, the floor and walls made of
 ancient stone bricks. To your left is an arched doorway leading to a 
 corridor and in the far corner, you make out a shadowy lump.
 
-Do you investigate the corner or take to the corridor?
 CORRIDOR 
-You slide your feet carefully across the ancient stone floor, careful 
-not to trip as you walk down the increasingly darkening hallway. 
-Without warning, your foot slips and you find yourself falling 
-endlessly into a dark pit... 
+You slide your feet across the ancient stone floor, careful not to trip
+as you walk down the increasingly darkening hallway. Without warning, 
+your foot slips and you find yourself falling endlessly into a dark pit... 
 
-The rumbling sound of thunder wakes you from your sleep. You leave 
-your room to find that beyond your door is a dark stairwell that 
-doesn't belong. 
-
-Ignoring the creeping feeling of familiarity, 
-you slowly climb the stairs... 
-
-At the top, you find yourself in a small room, the floor and walls made of
-ancient stone bricks. To your left is an arched doorway leading to a 
-corridor and in the far corner, you make out a shadowy lump.
-
-Do you investigate the corner or take to the corridor?
 CORNER 
 You crouch down in front of the shadowy lump, your senses on high alert.
 Slowly, you pull back what feels like tattered clothing to find a 
@@ -34,28 +20,25 @@ stick and a dusty box of matches. You wrap the cloth around the end
 of the stick and light your torch before taking to the hallway. 
 
 As you walk the corridor, you carefully skirt the edge of a drafty hole 
-in the stone floor before the hallway suddenly opens up into a grand 
-room. The light of your torch can't reach the other side, the 
-outline of something immense just beyond your vision.
+in the stone floor. Suddenly the hallway opens up into a grand 
+room. The light of your torch can't reach the other side where the 
+outline of something immense is just beyond your vision.
 
-Do you walk towards the other side of the room or keep to the walls? 
 WALLS 
 Hugging the walls, you keep an eye on the large object just out of 
 sight. Your free hand slides across the damp, moss covered stones. 
 Your attention diverted as the shadowy object begins to come into view, 
-you almost miss the sudden warmth below your fingertips. Just below 
-ahead of you, a large column had fallen from its pedestal and crashed 
-through the stone wall. The light from your torch reflects on 
-something beyond. 
+you almost miss the sudden warmth below your fingertips. Just ahead 
+of you are the crumbled remains of a large column that had once fallen
+from its pedestal and crashed through the stone wall. The light from 
+your torch reflects on something beyond. 
 
-Do you investigate the opening or continue along the perimeter? 
 INVESTIGATE 
 You crouch down low and crawl through the thick stone. On the other side
 is another small room. You gasp as your eyes adjust to the bright light 
 inside – a fire is lit in the hearth at the center of the room and a 
 cloaked figure stands before it. 
 
-Do you approach the figure or leave? 
 APPROACH 
 Before you take more than a few steps, the figure holds out an object in 
 their skeletal hand. You slowly reach out and take what turns out to be 
