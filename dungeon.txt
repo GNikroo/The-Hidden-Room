@@ -61,12 +61,6 @@ the fallen column. You find yourself standing before the suddenly
 illuminated object you first saw upon entering the room – a large 
 sarcophagus.  
 
-CONTINUE 
-There is a scratching sound all around and you hope there are rats in the 
-walls as you carefully step over the fallen column. You find yourself 
-standing before the suddenly illuminated object you first saw upon entering
-the room – a large sarcophagus.  
-
 OTHER SIDE 
 The room echoes with your shuffling feet as you cautiously step across 
 the worn stones. There is a scratching sound all around and you hope there
@@ -86,8 +80,6 @@ your shoulder and see movement. The light of your torch is too dim. You
 somehow find your footing but you've hurt your ankle and can only limp. 
 Just as you reach the dark corridor, something grips your arm... 
 
-Game over … try again?
-
 COMPASS 
 The compass grows warm in your hand and you look down to see that the
 needle has stopped spinning. Your eyes follow the point of the arrow to 
@@ -95,8 +87,6 @@ a wooden door. The lid to the sarcophagus continues to move as you follow
 the compass. The door is heavy but you are able to pull it open just 
 as the loud thud of the lid shakes the ground.  
 
-Do you give in to temptation and look at what has emerged from the 
-sarcophagus or do you move on? 
 LOOK 
 You look over your shoulder just as a thin arm is thrown over the edge of 
 the tomb. The flesh is mottled and greyish and something drips down towards
@@ -125,9 +115,7 @@ from jagged scratches down your arm.
 
 It couldn't have been a dream... could it? 
 
-Game over … try again?
-
-MOVE ON – with compass 
+ESCAPE 
 You pull the door shut, locking the door before looking back at your compass.
 The arrow points directly behind you and when you turn around a brightly
 lit staircase leads to another shut door. Steeling yourself for whatever 
@@ -147,6 +135,4 @@ The treasure...
 You run to your bedroom door and throw it open. The stairwell is gone. 
 Closing the door with a huff of disappointment, you turn back towards your bed.
 A lump under the bed covers draws your attention and when you lift the 
-cover you find a small pile of treasure, glittering with possibilities. 
-
-You won! 
+cover you find a small pile of treasure, glittering with possibilities.
