@@ -153,7 +153,7 @@ def scene3():
 def scene3_choice():
     """
     Runs walls follow up question:
-    Investigate the opening or continue.
+    Investigate the opening or continue to perimeter.
     """
     choice = Choice("investigate", "continue")
     user_input = question_template(choice)
