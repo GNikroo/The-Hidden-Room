@@ -10,9 +10,11 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/xterm/3.14.5/addons/attach/attach.js"></script>
     <title>Python Terminal by Code Institute</title>
     <style>
+        /* google fonts */
         @import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+        
         body {
-            background-image: url(/assets/images/pexels-felipe-hueb-2747893.jpg);
+            background-image: url("/assets/images/pexels-felipe-hueb-2747893.jpg");
             background-position: 0%;
             background-size: 100%;
             background-attachment: fixed;
@@ -20,8 +22,8 @@
 
         h1 {
             width: 100%;
-            text-shadow: 4px 4px 8px rgb(40, 1, 1);
-            font-size: 34px;
+            text-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);
+            font-size: 60px;
             font-family: 'Amatic SC', cursive;
             text-align: center;
         }
@@ -170,12 +172,23 @@
         button {
             width: 200px;
             height: 40px;
+            font-family: inherit;
             background-color: #E84610;
-            border: 1px solid grey;
-            color: white;
+            border: 1px solid black;
+            color: black;
             text-transform: uppercase;
             margin: 10px;
             border-radius: 8px;
+        }
+
+        button:hover {
+            box-shadow: 0 15px 25px -5px rgba(0, 0, 0, 0.4);
+            transform: scale(1.03);
+        }
+
+        button:active{
+            box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);
+            transform: scale(.98);
         }
     </style>
 </head>

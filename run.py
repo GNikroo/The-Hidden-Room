@@ -24,7 +24,7 @@ class Life:
         """
         Life.life -= 1
         if Life.life > 0:
-            print("\033[1;30;41mYou have " + str(Life.life) + " lives\n\033[m")
+            print("\033[1;30;41mYou have " + str(Life.life) + " lives\033[m")
         else:
             time.sleep(1)
             game_over()
