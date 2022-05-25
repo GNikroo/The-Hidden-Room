@@ -24,7 +24,7 @@ class Life:
         """
         Life.life -= 1
         if Life.life > 0:
-            print("\033[1;30;41mOnly " + str(Life.life) + " lives.\n\033[m")
+            print("\033[1;30;41mYou have " + str(Life.life) + " lives\n\033[m")
         else:
             time.sleep(1)
             game_over()
@@ -77,7 +77,7 @@ def scene1():
     """
     Begin game and present first question.
     """
-    print("\033[1;30;41mYou have " + str(Life.life) + " lives.\n\033[m")
+    print("\033[1;30;41mYou have " + str(Life.life) + " lives\n\033[m")
     lines = [0, 1, 2, 3, 4, 5, 6, 7, 8]
     read_script(lines)
     time.sleep(1)
