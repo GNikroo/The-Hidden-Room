@@ -116,7 +116,7 @@ from jagged scratches down your arm.
 It couldn't have been a dream... could it? 
 
 ESCAPE 
-You pull the door shut, locking the door before looking back at your compass.
+You pull the door shut, locking it before looking back at your compass.
 The arrow points directly behind you and when you turn around a brightly
 lit staircase leads to another shut door. Steeling yourself for whatever 
 lays beyond, you take the first step... then the next.  

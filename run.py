@@ -1,5 +1,6 @@
-"""Import time to add delay"""
+"""The Hidden Room game"""
 import time
+import sys
 
 
 class Choice:
@@ -24,7 +25,7 @@ class Life:
         """
         Life.life -= 1
         if Life.life > 0:
-            print("\033[1;30;41mYou have " + str(Life.life) + " lives\033[m")
+            print("\033[1;30;41mYou have " + str(Life.life) + " lives\033[m\n")
         else:
             time.sleep(1)
             game_over()
@@ -77,7 +78,7 @@ def scene1():
     """
     Begin game and present first question.
     """
-    print("\033[1;30;41mYou have " + str(Life.life) + " lives\n\033[m")
+    print("\033[1;30;41mYou have " + str(Life.life) + " lives\033[m\n")
     lines = [0, 1, 2, 3, 4, 5, 6, 7, 8]
     read_script(lines)
     time.sleep(1)
@@ -350,9 +351,8 @@ def game_over():
             Life.life = 3
             main()
         elif restart_game == "n":
-            print("Until next time...")
             user_input = "valid"
-            break
+            sys.exit("Until next time...")
         else:
             print("You feel the chill of icy breath at your back.\n")
             print("Please type y or n\n")
@@ -375,9 +375,8 @@ def win_game():
             Life.life = 3
             main()
         elif restart_game == "n":
-            print("Until next time...")
             user_input = "valid"
-            break
+            sys.exit("Until next time...")
         else:
             print("Your bed creaks under the weight of your hoard.\n")
             print("Please type y or n\n")
