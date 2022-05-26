@@ -1,6 +1,7 @@
 """The Hidden Room game"""
 import time
 import sys
+import os
 
 
 class Choice:
@@ -352,7 +353,10 @@ def game_over():
             main()
         elif restart_game == "n":
             user_input = "valid"
-            sys.exit("Until next time...")
+            print("Until next time...")
+            time.sleep(2)
+            clear_console()
+            sys.exit()
         else:
             print("You feel the chill of icy breath at your back.\n")
             print("Please type y or n\n")
@@ -376,16 +380,33 @@ def win_game():
             main()
         elif restart_game == "n":
             user_input = "valid"
-            sys.exit("Until next time...")
+            print("Until next time...")
+            time.sleep(2)
+            clear_console()
+            sys.exit()
         else:
             print("Your bed creaks under the weight of your hoard.\n")
             print("Please type y or n\n")
+
+
+def clear_console():
+    """
+    Clear console after choosing to exit game.
+    """
+    user_os = sys.platform
+    prefixes = ['win32', 'cygwin', 'os2emx']
+    result = user_os.startswith(tuple(prefixes))
+    if result:
+        return os.system('cls')
+    else:
+        return os.system('clear')
 
 
 def main():
     """
     Run program functions
     """
+    clear_console()
     game_logo()
     scene1()
 
